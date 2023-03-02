@@ -1,0 +1,6 @@
+Explanation
+The challenge of this question comes from the requirement "without using the division operation" With division, 
+this would be an easy problem. In order to solve it, we perform 2 steps:
+
+Iterate over the array from left to right, recording the product of the numbers we've seen so far.
+Iterate backwards from right to left, multiplying each element in res by the product of the numbers we've seen so far from right-to-left.

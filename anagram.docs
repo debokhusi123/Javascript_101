@@ -1,0 +1,8 @@
+Yes but the solution is already taking O(N) time,
+ and the sorting one is taking O(NlogN). I think that's why they said logN times slower
+
+
+ Space complexity = O(length of string)--O(N)
+
+
+ For the Hashmap implementation space and time complexity will be O(N)
