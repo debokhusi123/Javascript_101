@@ -1,0 +1,5 @@
+const reverse = (str)=>{
+const reverseString=str.split(".").reverse().join(".")
+return reverseString
+}
+reverse("i.like.this.program.very.much")
